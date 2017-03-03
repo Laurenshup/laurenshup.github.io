@@ -1,4 +1,8 @@
-title: Laurenshup - Java Developer
+<html>
+  <head>
+    <title>Laurenshup - Java Developer</title>
+  </head>
+</html>
 ## Projects
 
 You can use the [editor on GitHub](https://github.com/Laurenshup/laurenshup.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
