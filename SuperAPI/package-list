@@ -1,5 +1,6 @@
 com.laurenshup.superapi
 com.laurenshup.superapi.builders
+com.laurenshup.superapi.builders.inventory
 com.laurenshup.superapi.events.party
 com.laurenshup.superapi.language
 com.laurenshup.superapi.message
