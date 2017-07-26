@@ -1,0 +1,64 @@
+body {
+  overflow-x: hidden; 
+}
+.top-offset {
+  margin-top: -65px;
+}
+.header-content {
+  margin: 5px 15px 50px;
+}
+.header-content-inner p {
+  text-transform: uppercase;
+}
+.wrap{
+  margin: 100px;
+  width: 500px;
+  overflow: hidden;
+  position: relative;
+}
+.test {
+  background: green; 
+}
+.hover a{
+  border: 1px solid red;
+  -webkit-transition: all 0.4s; 
+    -moz-transition: all 0.4s; 
+    transition: all 0.4s;
+}
+.hover{
+  position: absolute;
+  width:100%;
+  height: 100%;
+  top: 0;
+}
+a.link1{
+    width: 70px;
+    height: 30px;
+    background: yellow; 
+     position: absolute;
+  left: -100%;
+}
+.hover:hover a.link1{
+   left: 40%;  
+}
+a.link2{
+    width: 70px;
+    height: 30px;
+    background: yellow; 
+     position: absolute;
+  right: -100%;
+}
+.hover:hover a.link2{
+   right: 40%;  
+}
+.fill {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #ddd;
+}
+.fill a {
+  color: #ddd;
+}
+.fill a:hover {
+  color: #999;
+}
